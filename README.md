@@ -71,8 +71,6 @@ while not done:
 - [OpenAI Gym Documentation](https://gymnasium.farama.org/)
 - [Pandapower Library](https://www.pandapower.org/)
 - [Stable Baselines3](https://stable-baselines3.readthedocs.io/)
-
-
 -  [View Project](./Reinforcement_Learning_for_Voltage_Control_in_Power_Systems.ipynb)
 
 ---
